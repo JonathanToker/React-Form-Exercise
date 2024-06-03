@@ -1,4 +1,5 @@
 # React + TypeScript + Vite
+![image](https://github.com/JonathanToker/React-Form-Exercise/assets/116793943/7e110a8b-b108-442f-bb2e-9632531c1c7c)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
